@@ -6,7 +6,7 @@
 <br/>
 <div align="center">
   <a href="https://github.com/modest-wtf/.github">
-    <img src="https://i.imgur.com/P8blwyh.png" alt="Logo" width="120" height="120">
+    <img src="https://i.imgur.com/nd9wFhL.gif" alt="Logo" width="120" height="120">
   </a>
   
   <h2 align="center">modest.wtf</h3>
